@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AadarshNeewar
-- 👀 I’m interested in football.
 - 🌱 I’m currently learning to build projects.
 
 <!---
